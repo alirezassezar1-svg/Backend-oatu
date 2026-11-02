@@ -1,0 +1,6 @@
+{
+  "name": "NONONICK AUTOMATION ENGINE",
+  "description": "Production-ready, mobile-first workflow automation platform with real deterministic engine, scheduler, triggers, and execution pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
